@@ -2,8 +2,7 @@
 void towerOfHanoi(int ,char ,char ,char );
 int main()
 {
-    int N;
- 
+   int N;
     printf("Enter the number of disks : ");
     scanf("%d", &N);
     printf("The sequence of moves involved in the Tower of Hanoi are :\n");
